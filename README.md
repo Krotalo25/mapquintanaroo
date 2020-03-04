@@ -2,7 +2,7 @@
 
 ## Mapa del estado de Quintana Roo
 
-![Mapa](https://photos.app.goo.gl/zeJWhbufXXEobAAT8)
+![Mapa](/mapa1.jpg)
 
 
 generado a partir de los límites y coordenadas publicados en el decreto de la Constitución política del Estado de Quintana Roo.
