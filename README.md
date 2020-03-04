@@ -2,7 +2,8 @@
 
 ## Mapa del estado de Quintana Roo
 
-![alt text](https://photos.app.goo.gl/zeJWhbufXXEobAAT8)
+![Mapa](https://photos.app.goo.gl/zeJWhbufXXEobAAT8)
+
 
 generado a partir de los límites y coordenadas publicados en el decreto de la Constitución política del Estado de Quintana Roo.
 - La linea de costa fue trazada a mano a partir de una imagen de satelite SPOT de 2007,a una escala de 1:10,000. 
