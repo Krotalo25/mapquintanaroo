@@ -1,6 +1,4 @@
-# mapquintanaroo
-
-## Mapa del estado de Quintana Roo
+## Mapa constitucional del estado de Quintana Roo
 
 ![Mapa](Mapa1.png)
 
