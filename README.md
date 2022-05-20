@@ -44,6 +44,24 @@ Los límites políticos constitucionales de algunos municipios tienen desfases (
 
 Para detallar aún más el proceso de ajuste mencionado, en la tabla siguiente se muestran los vértices constitucionales del Municipio de Solidaridad que aparecen en las figuras presentadas previamente, indicando sus coordenadas, la distancia de desfase con el vértice correspondiente de Tulum, y las coordenadas a las cuales fueron ajustados los vértices para evitar solapamientos y vacíos:
 
+|Vértices constitucionales de Solidaridad| | | No. de vértice de Tulum correspondiente|Distancia de desfase (m)|Vertice de Solidaridad ajustado al municipio de tulum||
+| -- | -- | -- | -- | -- |  -- | -- |
+|Vértice| X | Y | | | X| Y |
+|28|453124.005|2255362.441|16|225.288|453212.717|2255155.446|
+| 29 | 458736.202 | 2252181.045 | NA | NA | Se eliminó este vértice al no estar en el municipio de Tulum |  |
+| 30 | 460477.290 | 2251223.217 | 17 | 223.691 | 460566.088 | 2251017.999 |
+| 31 | 461845.437 | 2253947.358 | 18 | 225.289 | 461934.151 | 2253740.365 |
+|  Este vértice no estaba contemplado en Solidaridad  |  | | 19 | NA | 460497.378| 2254559.749 |
+| 32 | 459070.591 | 2255543.309 | 20 | 163.675 | 459083.117 | 2255380.176 |
+| 33 | 457327.682 | 2256505.089 | 21 | 225.288 | 457416.394 | 2256298.095 |
+
+En este sentido, en la tabla siguiente se plasman todos los vértices ajustados del municipio de Solidaridad:
+
+#### Vértices de Solidaridad ajustados
+
+|Vértice|X|Y|Vértice|X|Y|
+| -- | -- | -- | -- | -- |  -- |
+
 Aunado a lo anterior, los límites políticos constitucionales descritos no delimitan la línea de costa, por tal motivo esto fue tomado de la capa vectorial Marco Geoestadístico, Censo de Población y Vivienda 2020 Integrado del Proyecto Básico de Información 2020 elaborado por el INEGI. En las figuras siguientes se observa cómo al trazar los municipios con los vértices constitucionales no se cuenta con la línea de costa, y cómo esta fue tomada de la capa del INEGI.
 
 Así también, al observarse una discrepancia entre los límites internacionales señalados en la CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO y en el Proyecto Básico del INEGI 2020, se decidió ajustar los vértices constitucionales del municipio de Othón P. Blanco colindantes con el límite internacional, a los señalados en las capas del INEGI, es decir, que fueron tomados los límites internacionales señalados en las capas del INEGI en sustitución de los límites constitucionales del Estado; esto se realizó con la finalidad de que la capa resultante pueda ser empleada para realizar análisis espaciales con productos nacionales. En este sentido, los vértices constitucionales de Othón P. Blanco No. 77 al 89 fueron modificados alineándose al límite internacional que establece el INEGI. Este proceso de ajuste se ejemplifica a continuación con el vértice No. 89 ubicado en el extremo inferior izquierdo del polígono constitucional de Othón P. Blanco, el cual se encontraba con un desfase de 172 metros:
