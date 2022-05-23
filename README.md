@@ -42,9 +42,7 @@ Contar con una capa base de los límites constitucionales del Estado de Quintana
 Se tomaron como base los límites políticos constitucionales del Estado y sus Municipios decretados en la reforma de la CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, Publicada en el Periódico Oficial del Estado el 24 de diciembre del 2021.
 Los límites políticos constitucionales de algunos municipios tienen desfases (solapamientos y vacíos) entre el municipio de Solidaridad y el municipio de Tulum, así como entre Solidaridad y el Municipio de Puerto Morelos, derivado de lo anterior, se realizó un ajuste en los límites Sur y Norte del municipio de Solidaridad tomando como referencia los límites del municipio de Tulum y de Puerto Morelos respectivamente, al ser estos municipios de más reciente creación. Estos desfases y ajustes realizados se ejemplifican en las figuras siguientes:
 
-![TRASLAPE Y VACÍOS](https://user-images.githubusercontent.com/104367676/169852343-ddce4457-7720-4fb6-9808-604877203ece.png)
-![SIN TRASLAPE Y VACÍOS](https://user-images.githubusercontent.com/104367676/169852427-c4a35d25-f84e-47bd-9005-a86757014837.png)
-
+![image832](https://user-images.githubusercontent.com/104367676/169900195-32cfaa35-1b0b-4cb4-b92b-ea52e4ba50e6.png)
 
 
 Para detallar aún más el proceso de ajuste mencionado, en la tabla siguiente se muestran los vértices constitucionales del Municipio de Solidaridad que aparecen en las figuras presentadas previamente, indicando sus coordenadas, la distancia de desfase con el vértice correspondiente de Tulum, y las coordenadas a las cuales fueron ajustados los vértices para evitar solapamientos y vacíos:
