@@ -95,7 +95,11 @@ En este sentido, en la tabla siguiente se plasman todos los vértices ajustados 
 
 Aunado a lo anterior, los límites políticos constitucionales descritos no delimitan la línea de costa, por tal motivo esto fue tomado de la capa vectorial Marco Geoestadístico, Censo de Población y Vivienda 2020 Integrado del Proyecto Básico de Información 2020 elaborado por el INEGI. En las figuras siguientes se observa cómo al trazar los municipios con los vértices constitucionales no se cuenta con la línea de costa, y cómo esta fue tomada de la capa del INEGI.
 
+![image831](https://user-images.githubusercontent.com/104367676/169904571-50da0962-1b2f-47e1-b776-5894df34f2fc.png)
+
 Así también, al observarse una discrepancia entre los límites internacionales señalados en la CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO y en el Proyecto Básico del INEGI 2020, se decidió ajustar los vértices constitucionales del municipio de Othón P. Blanco colindantes con el límite internacional, a los señalados en las capas del INEGI, es decir, que fueron tomados los límites internacionales señalados en las capas del INEGI en sustitución de los límites constitucionales del Estado; esto se realizó con la finalidad de que la capa resultante pueda ser empleada para realizar análisis espaciales con productos nacionales. En este sentido, los vértices constitucionales de Othón P. Blanco No. 77 al 89 fueron modificados alineándose al límite internacional que establece el INEGI. Este proceso de ajuste se ejemplifica a continuación con el vértice No. 89 ubicado en el extremo inferior izquierdo del polígono constitucional de Othón P. Blanco, el cual se encontraba con un desfase de 172 metros:
+
+![image871](https://user-images.githubusercontent.com/104367676/169905000-7dfa3722-950f-4801-8bcf-e9b1764a493d.png)
 
 Por otra parte, la colindancia constitucional entre los municipios de Othón P. Blanco y Bacalar en la porción del espejo de agua de la Laguna de Bacalar, está representada únicamente por dos vértices, formando una línea recta que atraviesa dicho cuerpo de agua. Por este motivo, los polígonos de ambos municipios fueron ajustados adicionando la división de la capa del Proyecto Básico del INEGI, la cual se adecua al litoral de la Laguna:
 
