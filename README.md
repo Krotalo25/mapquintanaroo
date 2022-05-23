@@ -42,6 +42,11 @@ Contar con una capa base de los límites constitucionales del Estado de Quintana
 Se tomaron como base los límites políticos constitucionales del Estado y sus Municipios decretados en la reforma de la CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, Publicada en el Periódico Oficial del Estado el 24 de diciembre del 2021.
 Los límites políticos constitucionales de algunos municipios tienen desfases (solapamientos y vacíos) entre el municipio de Solidaridad y el municipio de Tulum, así como entre Solidaridad y el Municipio de Puerto Morelos, derivado de lo anterior, se realizó un ajuste en los límites Sur y Norte del municipio de Solidaridad tomando como referencia los límites del municipio de Tulum y de Puerto Morelos respectivamente, al ser estos municipios de más reciente creación. Estos desfases y ajustes realizados se ejemplifican en las figuras siguientes:
 
+![TRASLAPE Y VACÍOS](https://user-images.githubusercontent.com/104367676/169852343-ddce4457-7720-4fb6-9808-604877203ece.png)
+![SIN TRASLAPE Y VACÍOS](https://user-images.githubusercontent.com/104367676/169852427-c4a35d25-f84e-47bd-9005-a86757014837.png)
+
+
+
 Para detallar aún más el proceso de ajuste mencionado, en la tabla siguiente se muestran los vértices constitucionales del Municipio de Solidaridad que aparecen en las figuras presentadas previamente, indicando sus coordenadas, la distancia de desfase con el vértice correspondiente de Tulum, y las coordenadas a las cuales fueron ajustados los vértices para evitar solapamientos y vacíos:
 
 |Vértices constitucionales de Solidaridad| | | No. de vértice de Tulum correspondiente|Distancia de desfase (m)|Vertice de Solidaridad ajustado al municipio de tulum||
@@ -61,6 +66,34 @@ En este sentido, en la tabla siguiente se plasman todos los vértices ajustados 
 
 |Vértice|X|Y|Vértice|X|Y|
 | -- | -- | -- | -- | -- |  -- |
+|1|508226.083|2300830.248|29|453212.717|2255155.446|
+|2|508248.189|2301350.516|30|460566.088|2251017.999|
+|3|491711.534|2301279.311|31|461934.151|2253740.365|
+|4|480019.654|2295911.641|32|460497.378|2254559.749|
+|5|480019.534|2295911.570|33|459083.117|2255380.176|
+|6|474405.106|2289616.558|34|457416.394|2256298.095|
+|7|475180.950|2288987.059|35|460196.329|2260961.943|
+|8|472045.900|2285503.709|36|462062.222|2260032.887|
+|9|473704.546|2284343.445|37|462729.117|2261152.149|
+|10|460542.990|2284397.722|38|463672.825|2260434.591|
+|11|454879.045|2284494.191|39|463775.728|2260260.013|
+|12|453941.107|2284542.275|40|463804.321|2260211.504|
+|13|445438.125|2284677.191|41|464351.971|2259282.408|
+|14|445600.326|2277171.000|42|464406.831|2259189.337|
+|15|436062.881|2277986.155|43|464924.116|2258311.753|
+|16|436323.569|2283828.046|44|464949.912|2258267.990|
+|17|422362.459|2284123.600|45|465429.963|2257453.576|
+|18|395637.320|2267524.206|46|465443.673|2257430.316|
+|19|396204.166|2261297.497|47|465592.041|2257178.607|
+|20|401754.563|2261153.094|48|465615.745|2257139.147|
+|21|408283.629|2260936.977|49|466436.323|2257627.565|
+|22|411715.123|2260547.876|50|466805.549|2257426.004|
+|23|419668.120|2268782.795|51|466901.647|2257373.544|
+|24|419853.359|2268765.628|52|467400.311|2257101.322|
+|25|433727.912|2268692.650|53|467443.800|2257077.061|
+|26|438523.315|2263513.240|54|467564.629|2257296.991|
+|27|439392.658|2260496.260|55|467675.680|2257242.454|
+|28|445180.982|2252972.250|56|468434.164|2256895.718|
 
 Aunado a lo anterior, los límites políticos constitucionales descritos no delimitan la línea de costa, por tal motivo esto fue tomado de la capa vectorial Marco Geoestadístico, Censo de Población y Vivienda 2020 Integrado del Proyecto Básico de Información 2020 elaborado por el INEGI. En las figuras siguientes se observa cómo al trazar los municipios con los vértices constitucionales no se cuenta con la línea de costa, y cómo esta fue tomada de la capa del INEGI.
 
