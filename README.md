@@ -118,7 +118,7 @@ Esta capa de la superficie del estado de Quintana Roo se emplea para realizar an
 EPSG: 6371  - Mexico ITRF2008 / UTM zone 16N 
 
 #### Técnicos: 
-Ing. Armando Calderon Ruiz
+Ing. Armando Calderon Ruiz  
 Biol. Luis Antonio Mora Tembre
 
 #### Software empleado: 
