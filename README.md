@@ -117,6 +117,10 @@ Esta capa de la superficie del estado de Quintana Roo se emplea para realizar an
 #### Sistema de referencia de coordenadas de la capa: 
 EPSG: 6371  - Mexico ITRF2008 / UTM zone 16N 
 
+#### Técnicos: 
+Ing. Armando Calderon Ruiz
+Biol. Luis Antonio Mora Tembre
+
 #### Software empleado: 
 QGIS versión 3.16.7
 
